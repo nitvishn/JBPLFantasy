@@ -1,0 +1,19 @@
+fearcontrol
+spacemonkeymafia
+
+#PLAYER1,goalnumber,assistnumber,appearancetime(in_minutes),tackles,saves,yellowcards,redcards
+KAIF YENEPOYA,1,1,15,0,0,0,0
+VASIN,0,0,15,0,4,0,0
+DIVYAANSHU DAS,1,0,15,0,0,0,0
+PRATYAY AGARWAL,0,0,15,3,0,0,0
+RAAHIL AGARWAL,0,0,15,0,3,0,0
+SAMARJEET BALI,0,0,10,1,0,0,0
+REYANSH,0,0,5,0,0,0,0
+ISHAN PATEL,0,0,15,0,0,0,0
+YIEUN KIM,0,0,5,0,0,0,0
+ANDY,0,0,5,1,0,0,0
+GAAYEN SAHGAL,0,0,15,2,0,0,0
+SEUNGHO LEE,0,0,15,0,0,0,0
+KRISHNA SUDHAN,0,0,15,1,0,0,0
+JIHUN CHOI,0,0,15,0,0,0,0
+MINGYU,0,0,5,0,0,0,0
